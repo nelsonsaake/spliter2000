@@ -1,0 +1,5 @@
+1. copy the data into "input.txt" file
+
+2. specify the number of line per slide you want in the "lines per slide.txt" file 
+
+3. double click "run.bat"
